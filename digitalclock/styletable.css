@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    border: 5px solid black;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    position: inherit;
+    text-align: center;
+    border: 1px solid black;
+}
+ 
