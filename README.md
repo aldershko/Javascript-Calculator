@@ -1,2 +1,2 @@
-# Javascript-Calculator
+# Javascript
 My first repository 
